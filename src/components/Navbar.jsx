@@ -91,6 +91,7 @@ const Navbar = () => {
                   <div className="absolute w-full h-[3px] left-0 top-full transform scale-x-0 transition-transform duration-500 bg-white group-hover:scale-x-100 origin-left group-hover:origin-left"></div>
                 </li>
               ))}
+              <Theme />
             </ul>
           </div>
         </div>
